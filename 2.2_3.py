@@ -15,6 +15,8 @@ browser = webdriver.Chrome()
 browser.get('http://suninjuly.github.io/file_input.html')
 time.sleep(1)
 
+browser
+
 fName = browser.find_element(By.CSS_SELECTOR, 'input[name="firstname"]')
 fName.send_keys('Ivan')
 
