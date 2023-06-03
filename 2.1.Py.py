@@ -26,7 +26,7 @@ chBox.click()
 rBtn.click()
 btn.click()
 
-time.sleep(5)
+time.sleep(2)
 
 browser.quit()
 
