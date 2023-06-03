@@ -2,3 +2,6 @@
 Home tasks for Stepik practic work
 
 Auto testing is my passion in 2023
+
+nothing interesting, close and forget
+
